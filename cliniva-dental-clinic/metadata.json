@@ -1,0 +1,6 @@
+{
+  "name": "Cliniva Dental Clinic",
+  "description": "Pain-free premium dental care in DLF Phase 2, Gurugram. Advanced dentistry with top-rated implantologist, cosmetologist, and general dentists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
